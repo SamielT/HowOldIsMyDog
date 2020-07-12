@@ -8,20 +8,30 @@ html {
 }
 
 body {
-	
-	margin: 1em;
+	margin: 3em;
 }
 
-.section-1 div {
-	
+.section-1 {
+
 }
 
 .container-1 {
-	
+	margin-top: 6px;
+	text-align: justify;
+	font-size: 19px;
+	line-height: 28px;
 }
 
 .ageCalculator {
 	background-color: #eae2b7;
+	padding: 20px;
 	margin: 10px;
 	border: 2px solid #2b2d42;
+	border-radius: 10px;
+	display: inline-block;
+	float: right;
+}
+
+.ageCalculator * {
+	margin-bottom: 4px;
 }
