@@ -12,18 +12,16 @@ body {
 	margin: 1em;
 }
 
-.window {
-	background-color: #eae2b7;
-	padding: 10px;
-	margin: 10px;
-	border: 2px solid #2b2d42;
-
-}
-
-.window2 {
+.section-1 div {
 	
 }
 
-.window * {
-	margin-bottom: 3px;
+.container-1 {
+	
+}
+
+.ageCalculator {
+	background-color: #eae2b7;
+	margin: 10px;
+	border: 2px solid #2b2d42;
 }
